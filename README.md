@@ -8,3 +8,7 @@ A Turma 35 é a turma mais DEDICADA, EMPOLGADA, ENGAJADA, BRABA!!!!
 Basta clonar o repositório
 
 git clone git@github.com:tryber/sd-035-live-lecture.git
+
+## Estrutura
+Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request! Aproveite esses conteúdos para estudar 😉
+
