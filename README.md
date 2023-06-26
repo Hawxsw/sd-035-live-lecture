@@ -4,7 +4,7 @@ Este repositório armazena os códigos e scripts fornecidos durante as aulas ao 
 
 ## Iniciando
 
-A Turma 35 é a turma mais DEDICADA, EMPOLGADA, ENGAJADA, BRABA!!!!
+A Turma 35 é a turma mais DEDICADA, EMPOLGADA, ENGAJADA, BUNITA, BURLESCA e EPISÓDICA.
 
 Basta clonar o repositório 😎
 
