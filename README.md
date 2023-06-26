@@ -1,6 +1,6 @@
 # Repositório de aulas ao vivo para estudantes da Turma 35
 
-Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da Trybe.
+Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelas pessoas especialistas da Trybe.
 
 ## Iniciando
 
