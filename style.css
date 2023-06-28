@@ -11,6 +11,7 @@ body{
     background-color: black; 
     color: white;
     width: 60%;
+    min-width: 1000px;
     margin: auto;
 }
 
@@ -49,6 +50,7 @@ body{
 }
 
 .premium-content {
+    min-width: 1000px;
     width: 60%;
     margin: auto;
 }
@@ -83,12 +85,43 @@ body{
     font-size: 11px;
     font-weight: 600;
     border-radius: 100px;
+    opacity: 0.9;
 }
 
 .comece-agora {
     background-color: black;
+    /* transition: all 600ms ease; */
+    cursor: pointer;
 }
 
 .ver-planos {
     border: 1px solid white;
+    cursor: pointer;
+}
+.comece-agora:hover, .ver-planos:hover{
+    padding: 15px 22px;
+    opacity: 1;
+}
+
+.ver-planos:hover {
+    background-color: #175db1;
+}
+
+.why-premium {
+    text-align: center;
+}
+
+.why-premium div {
+    display: inline-block;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+.why-premium h2 {
+    font-size: 30px;
+    margin: 50px 0;
+}
+
+.why-premium img {
+    padding-bottom: 25px;
 }
